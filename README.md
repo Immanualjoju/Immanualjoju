@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Immanualjoju
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Immanual Joju 👋
 
-<!---
-Immanualjoju/Immanualjoju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+DevOps & Cloud Engineer
+
+🚀 Azure Cloud Operations  
+⚙️ CI/CD Pipelines  
+🐳 Docker  
+☁️ Cloud Infrastructure  
+📊 Monitoring & Production Support
+
+Currently learning and building projects around DevOps and Cloud technologies.
+
