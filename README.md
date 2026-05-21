@@ -1,12 +1,39 @@
 # Hi, I'm Immanual Joju 👋
 
-DevOps & Cloud Engineer
+## DevOps & Cloud Engineer
 
-🚀 Azure Cloud Operations  
-⚙️ CI/CD Pipelines  
-🐳 Docker  
-☁️ Cloud Infrastructure  
-📊 Monitoring & Production Support
+DevOps and Cloud professional with experience in Azure cloud operations, CI/CD implementation, infrastructure management, and production support.
 
-Currently learning and building projects around DevOps and Cloud technologies.
+### Tech Stack
 
+☁️ Cloud
+- Microsoft Azure
+- AWS
+
+⚙️ DevOps
+- Azure DevOps
+- GitHub Actions
+- CI/CD Pipelines
+
+🐳 Containers
+- Docker
+- Kubernetes
+
+📊 Monitoring
+- Azure Monitor
+- Log Analytics
+
+💻 Scripting
+- PowerShell
+- Python
+- Bash
+
+### Current Focus
+
+- Building DevOps projects
+- Learning cloud automation
+- Improving infrastructure and deployment workflows
+
+### Connect with me
+
+LinkedIn: www.linkedin.com/in/immanual-joju
